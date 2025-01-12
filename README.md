@@ -16,3 +16,10 @@
 12. Check SQL migrate: ```python manage.py sqlmigrate polls 0001```
 13. Check project problems: ```python manage.py check```
 14. Migrate model tables in database: ```python manage.py migrate```
+15. Add models to admin panel
+16. Create views
+17. Create urls
+18. Create templates and polls directory with htmls
+19. Add templates to urls
+20. Use generic views
+21. Create test file and functions
