@@ -24,3 +24,4 @@
 20. Use generic views
 21. Create test file and functions
 22. Install and configure debug toolbar: https://django-debug-toolbar.readthedocs.io/en/latest/configuration.html
+23. Create requirements file and list modules: ```python -m pip freeze > requirements.txt```
