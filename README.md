@@ -1,4 +1,4 @@
-# Polls
+# Django - Polls
 
 ### Development steps
 
@@ -23,3 +23,4 @@
 19. Add templates to urls
 20. Use generic views
 21. Create test file and functions
+22. Install and configure debug toolbar: https://django-debug-toolbar.readthedocs.io/en/latest/configuration.html
